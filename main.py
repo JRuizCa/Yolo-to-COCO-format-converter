@@ -16,7 +16,7 @@ import imagesize
 # Don't change the list name 'Classes'          #
 #################################################
 
-YOLO_DARKNET_SUB_DIR = "YOLO_darknet"
+YOLO_DARKNET_SUB_DIR = "labels"
 
 classes = [
     "barcode"
